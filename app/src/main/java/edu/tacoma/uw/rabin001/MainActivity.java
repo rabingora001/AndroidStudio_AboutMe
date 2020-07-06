@@ -14,7 +14,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
+    //Tag for the Activity life cycle.
     private static final String TAG = "MainActivity";
 
     @Override
