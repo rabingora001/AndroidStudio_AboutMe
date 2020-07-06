@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="butt_send">Send</string>
+    <string name="fire">fire</string>
+    <string name="cancel">calcel</string>
+    <string name="dialog_fire_missiles">missile</string>
+</resources>
